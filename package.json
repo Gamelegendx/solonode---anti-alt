@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "ItzCutePichu (HELLMAKER, https://github.com/HELLMAKER0001",
+  "author": "ItzCutePichu (Gamelegendx,https://github.com/Gamelegendx",
   "license": "GNU",
   "dependencies": {
     "chalk": "^4.1.0",
